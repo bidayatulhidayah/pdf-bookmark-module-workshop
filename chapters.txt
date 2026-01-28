@@ -1,0 +1,33 @@
+# PDF Chapters Configuration File
+# Format: Chapter Name | Page Number
+# Lines starting with # are comments and will be ignored
+# Empty lines are also ignored
+
+# Example for 10 chapters:
+Chapter 1: Introduction | 1
+Chapter 2: Getting Started | 8
+Chapter 3: Basic Concepts | 15
+Chapter 4: Advanced Techniques | 23
+Chapter 5: Practical Applications | 31
+Chapter 6: Case Studies | 42
+Chapter 7: Best Practices | 53
+Chapter 8: Common Challenges | 64
+Chapter 9: Future Directions | 72
+Chapter 10: Conclusion | 80
+
+# Instructions:
+# 1. Replace the chapter names above with your actual chapter titles
+# 2. Update the page numbers to match your PDF
+# 3. Save this file
+# 4. Run: python add_bookmarks.py
+
+# Notes:
+# - Page numbers start from 1 (first page = 1)
+# - You can add sub-sections by indenting (see below)
+# - Keep the format: Title | Number
+
+# Example with sub-sections (optional):
+# Chapter 1: Introduction | 1
+# 1.1 Background | 2
+# 1.2 Objectives | 4
+# Chapter 2: Methodology | 7
