@@ -4,16 +4,11 @@
 # Empty lines are also ignored
 
 # Example for 10 chapters:
-Chapter 1: Introduction | 1
-Chapter 2: Getting Started | 8
-Chapter 3: Basic Concepts | 15
-Chapter 4: Advanced Techniques | 23
-Chapter 5: Practical Applications | 31
-Chapter 6: Case Studies | 42
-Chapter 7: Best Practices | 53
-Chapter 8: Common Challenges | 64
-Chapter 9: Future Directions | 72
-Chapter 10: Conclusion | 80
+Part 1: Microcontroller and Block Program Basics | 3
+1.1 Introduction to ESP32 Microcontroller | 3
+1.2 Introduction to Pictoblox Software | 5
+1.2.1 Pictblox Installation & Setup | 6
+
 
 # Instructions:
 # 1. Replace the chapter names above with your actual chapter titles
